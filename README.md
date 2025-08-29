@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1heChosenOne
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on flutter
+- 👀 I’m interested in backend programming
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python with frontender
 - 📫 How to reach me 
 
 <!---
