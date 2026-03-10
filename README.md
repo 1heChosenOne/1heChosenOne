@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1heChosenOne
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in backend/ML programming
+- 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on python with frontender
 - 📫 How to reach me
 - linkedin = https://www.linkedin.com/in/biali-mubarak-53933737a/
